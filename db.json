@@ -1,5 +1,5 @@
 {
-  "posts":
+  "posts":[
     {
   "cliente":"pepe",
   "conductor":"Jose Ramon",
@@ -8,5 +8,15 @@
   "recogida":"Casa Tatiana",
   "almacen":"Finca Jose Ramon",
   "devolucion":"Casa Felix"
+    },
+        {
+  "cliente":"perico",
+  "conductor":"Felix",
+  "tractora":"888-RMX",
+  "remolque":"R6574",
+  "recogida":"Casa Felix",
+  "almacen":"Finca Jose Ramon",
+  "devolucion":"Casa Felix"
     }
+  ]
 }
