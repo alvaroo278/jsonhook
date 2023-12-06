@@ -1,4 +1,6 @@
 {
+  "posts": [
+    {
       "cliente": "pedro",
       "conductor": "Jose Ramon",
       "tractora": "777-RMX",
@@ -19,4 +21,5 @@
       "almacen": "Taller La Espada",
       "devolucion": "Lavadero Archenera"
     }
-
+  ]
+}
