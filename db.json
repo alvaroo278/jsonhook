@@ -1,4 +1,6 @@
 {
+  "posts":[
+    {
     "EVENTTYPE": "6",
     "CLIENTID": "97",
     "GROUP": "165",
@@ -25,7 +27,7 @@
     "GROUPPOI": "",
     "EVENTID": "42638b24-2721-4f96-b25e-189ca58230a5",
     "EVENTNAME": "Eventos EBS"
-},
+}
 {
     "EVENTTYPE": "12",
     "CLIENTID": "97",
@@ -53,4 +55,6 @@
     "GROUPPOI": "",
     "EVENTID": "157d3711-0e36-46b1-af0b-0e194b83025a",
     "EVENTNAME": "Bateria Baja "
+}
+  ]
 }
