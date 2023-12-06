@@ -1,25 +1,22 @@
 {
-  "posts":[
-    {
-  "cliente":"pedro",
-  "conductor":"Jose Ramon",
-  "tractora":"777-RMX",
-  "remolque":"R6574",
-  "recogida":"Casa Tatiana",
-  "almacen":"Finca Jose Ramon",
-  "devolucion":"Casa Felix"
+      "cliente": "pedro",
+      "conductor": "Jose Ramon",
+      "tractora": "777-RMX",
+      "remolque": "R6574",
+      "recogida": "Casa Tatiana",
+      "almacen": "Finca Jose Ramon",
+      "devolucion": "Casa Felix"
     },
-        {
-  "cliente":"perico",
-  "conductor":"Felix",
-  "tractora":"888-RMX",
-  "remolque":"R6574",
-  "recogida":"Casa Felix",
-  "almacen":"Finca Jose Ramon",
-  "devolucion":"Casa Felix"
-  "recogida":"BASE ESPADA",
-  "almacen":"Taller La Espada",
-  "devolucion":"Lavadero Archenera"
+    {
+      "cliente": "perico",
+      "conductor": "Felix",
+      "tractora": "888-RMX",
+      "remolque": "R6574",
+      "recogida": "Casa Felix",
+      "almacen": "Finca Jose Ramon",
+      "devolucion": "Casa Felix",
+      "recogida": "BASE ESPADA",
+      "almacen": "Taller La Espada",
+      "devolucion": "Lavadero Archenera"
     }
-  ]
-}
+
